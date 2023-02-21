@@ -1,0 +1,7 @@
+C:\Users\manci\OneDrive\Escritorio\Ab Almacén\Almacen\x64\Debug\Almacen.vcxproj.AssemblyReference.cache
+C:\Users\manci\OneDrive\Escritorio\Ab Almacén\Almacen\x64\Debug\Almacen.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\manci\OneDrive\Escritorio\Ab Almacén\Almacen\x64\Debug\Almacen.Form1.resources
+C:\Users\manci\OneDrive\Escritorio\Ab Almacén\Almacen\x64\Debug\Almacen.vcxproj.GenerateResource.cache
+C:\Users\manci\OneDrive\Escritorio\Ab Almacén\Almacen\x64\Debug\Almacen.exe
+C:\Users\manci\OneDrive\Escritorio\Ab Almacén\Almacen\x64\Debug\Almacen.Vent_Ent.resources
+C:\Users\manci\OneDrive\Escritorio\Ab Almacén\Almacen\x64\Debug\Almacen.Vent_Sal.resources
